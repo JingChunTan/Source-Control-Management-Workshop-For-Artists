@@ -1,3 +1,3 @@
-# Unity-Shop-System
+# Unity-UI-Project: Shop UI
 
-A simple shop where items can be bought and sold between two dynamimcally populated lists. 
+A Shop screen where items can be bought and sold between two dynamimcally populated lists. 
