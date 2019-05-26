@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 860bd071e75f94a1982995d956d22d3a
+timeCreated: 1538506270
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dots All For Now JL
+  fontNames:
+  - Dots All For Now JL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

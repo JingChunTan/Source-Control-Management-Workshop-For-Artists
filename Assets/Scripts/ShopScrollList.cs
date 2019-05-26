@@ -30,7 +30,7 @@ public class ShopScrollList : MonoBehaviour
     public void RefreshDisplay()
     {
         myGoldDisplay.text = "Gold: " + gold.ToString();
-      //  RemoveButtons();//crash if activated
+        RemoveButtons();
         AddButtons();
     }
 

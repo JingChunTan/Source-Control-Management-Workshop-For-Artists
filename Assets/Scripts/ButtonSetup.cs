@@ -24,7 +24,7 @@ public class ButtonSetup : MonoBehaviour
     {
         item = currentItem;
         nameLabel.text = item.itemName;
-        priceText.text = item.price.ToString();
+        priceText.text = "£ " + item.price.ToString();
         iconImage.sprite = item.icon;
         scrollList = currScrollList; //button knows what list it currently belongs to
 
